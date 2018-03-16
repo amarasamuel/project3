@@ -1,0 +1,56 @@
+body{
+    height: 100%;
+    width: 100%;
+    /* background-color: rgb(241, 241, 241); */
+}
+.navbar-brand {
+    border: 2px solid #69b8e5;
+    color: #2d9cdb;
+    padding: 5px 10px;
+}
+.lightgray{
+    background-color:#f2f2f2;
+}
+
+
+/* .lol{
+    color: skyblue; */
+.lol{
+    background-color: #2d9cdb;
+    height: 350px;
+    width: 100%;
+    padding: 10% 0;
+}
+.card{
+    width: 18rem;
+}
+.text {
+    text-align: center;
+    color: white;
+   /* margin-top: 2%; */
+}
+.text2 {
+    text-align: center;
+    color: #52acdf;
+   
+}
+.text3 {
+    text-align: center;
+    color: white;
+}
+
+.form-group{
+    /* margin-left: 35%; */
+    width: 100%;
+}
+.btn-send{
+    color: white;
+    background-color: #f2994a;
+}
+.mydiv3 {
+    background-color: #2d9cdb;
+}
+.mydiv2 {
+    background-color: #c4c4c4;
+    height: 50px;
+}
